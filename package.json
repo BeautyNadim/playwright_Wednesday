@@ -1,0 +1,22 @@
+{
+  "name": "playwright_wednesday",
+  "version": "1.0.0",
+  "description": "I am writing this in GitHub",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeautyNadim/playwright_Wednesday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeautyNadim/playwright_Wednesday/issues"
+  },
+  "homepage": "https://github.com/BeautyNadim/playwright_Wednesday#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
